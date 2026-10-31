@@ -1,0 +1,3 @@
+# Simulator of an autonomous search-and-rescue drone in mountainous terrain
+
+The aim of this program is to simulate search-and-rescue missions of an autonomous drone equipped with a thermal imaging camera in mountainous terrain. The simulation takes into account factors such as battery life, wind, flight altitude and probability of target detection. It can use several search strategies and visualize results with charts.
